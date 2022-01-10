@@ -6,7 +6,7 @@ A Flutter project that displays your
  * 📷 Photo 
  * 🎞️Video
 
-## Sample
+## Finished App
 ![App Sample](https://github.com/MithunVinayak/Me-Card/blob/master/App-Sample.gif)
 
 For help getting started with Flutter, view our
